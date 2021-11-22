@@ -1,0 +1,15 @@
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\bin\Debug\net5.0\MyShoppingListFile.exe
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\bin\Debug\net5.0\MyShoppingListFile.deps.json
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\bin\Debug\net5.0\MyShoppingListFile.runtimeconfig.json
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\bin\Debug\net5.0\MyShoppingListFile.runtimeconfig.dev.json
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\bin\Debug\net5.0\MyShoppingListFile.dll
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\bin\Debug\net5.0\ref\MyShoppingListFile.dll
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\bin\Debug\net5.0\MyShoppingListFile.pdb
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\obj\Debug\net5.0\MyShoppingListFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\obj\Debug\net5.0\MyShoppingListFile.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\obj\Debug\net5.0\MyShoppingListFile.AssemblyInfo.cs
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\obj\Debug\net5.0\MyShoppingListFile.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\obj\Debug\net5.0\MyShoppingListFile.dll
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\obj\Debug\net5.0\ref\MyShoppingListFile.dll
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\obj\Debug\net5.0\MyShoppingListFile.pdb
+C:\Users\lisan\source\repos\DirectoriesAndFiles\MyShoppingListFile\obj\Debug\net5.0\MyShoppingListFile.genruntimeconfig.cache
